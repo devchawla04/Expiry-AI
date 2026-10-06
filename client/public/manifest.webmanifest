@@ -1,0 +1,17 @@
+{
+  "name": "ShelfSense",
+  "short_name": "ShelfSense",
+  "description": "Your AI-powered pantry. Use food before it expires.",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#F3EEE6",
+  "theme_color": "#0E6B52",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
